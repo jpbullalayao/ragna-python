@@ -1,9 +1,8 @@
 from abc import abstractmethod
 
 class DataStructure:
-    
     @abstractmethod
-    def print(self):
+    def print_all(self):
         pass
     
     @abstractmethod
